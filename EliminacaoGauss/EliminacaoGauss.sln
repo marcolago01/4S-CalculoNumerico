@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EliminacaoGauss", "EliminacaoGauss\EliminacaoGauss.vcxproj", "{71B3803B-76E2-41BA-B721-093E3638C7E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B3803B-76E2-41BA-B721-093E3638C7E5}.Debug|x64.ActiveCfg = Debug|x64
+		{71B3803B-76E2-41BA-B721-093E3638C7E5}.Debug|x64.Build.0 = Debug|x64
+		{71B3803B-76E2-41BA-B721-093E3638C7E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{71B3803B-76E2-41BA-B721-093E3638C7E5}.Debug|x86.Build.0 = Debug|Win32
+		{71B3803B-76E2-41BA-B721-093E3638C7E5}.Release|x64.ActiveCfg = Release|x64
+		{71B3803B-76E2-41BA-B721-093E3638C7E5}.Release|x64.Build.0 = Release|x64
+		{71B3803B-76E2-41BA-B721-093E3638C7E5}.Release|x86.ActiveCfg = Release|Win32
+		{71B3803B-76E2-41BA-B721-093E3638C7E5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {317569E2-DC3A-4AB0-8494-62FAF9AE9AA6}
+	EndGlobalSection
+EndGlobal
