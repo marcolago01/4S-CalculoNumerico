@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Eliminacao_Gauss_PivotParcial.h" />
     <ClInclude Include="Parabula.h" />
     <ClInclude Include="Reta.h" />
     <ClInclude Include="stdafx.h" />
